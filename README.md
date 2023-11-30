@@ -9,7 +9,6 @@ The Weather App is a React application providing real-time weather information. 
 - Real-time weather information from OpenWeatherMap API.
 - Displays current weather details including temperature, humidity, and wind speed.
 - 5-day weather forecast with daily weather conditions.
-- Displays population data for selected cities.
 - User-friendly interface for selecting different cities.
 
 ## Screenshots
@@ -40,9 +39,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 - **Mahshad Eilanlou** - https://github.com/mahshadil/101400600_comp3123_labtest2/edit/main/README.md
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](link-to-your-license) file for details.
 
 ## Acknowledgments
 
